@@ -2,6 +2,11 @@
 
 Sistema desktop desenvolvido em Python para gestão de crédito informal (fiado) em pequenos comércios.
 
+## 📝 Licença
+
+Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) para fins educacionais.
+
+
 ## 📦 Requisitos
 
 - **Python 3.8** ou superior
@@ -156,11 +161,6 @@ O sistema utiliza **SQLite** com as seguintes tabelas:
 
 ---
 
-## 📝 Licença
-
-Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC) para fins educacionais.
-
----
 
 ## 🆘 Suporte
 
